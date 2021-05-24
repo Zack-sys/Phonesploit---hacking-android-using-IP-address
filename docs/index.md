@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+![maxresdefault](https://user-images.githubusercontent.com/75029023/111974867-e453e700-8b3a-11eb-8bd4-cb2857815654.jpg)
 
-You can use the [editor on GitHub](https://github.com/Zack-sys/PHONESPLOIT/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### ༒︎᯾𝐏𝐡𝐨𝐧𝐞𝐬𝐩𝐥𝐨𝐢𝐭᯾༒︎
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  
 
-### Markdown
+### ✰𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽 𝙰𝙽𝙳𝚁𝙾𝙸𝙳 𝙾𝙿𝙴𝙽 𝙿𝙾𝚁𝚃✰
+> It is very easy to just open settings go to about and repetitively click on build number and then a pop notification shown "You are now Developer" then go back to main settings and check their new option shown (Developer Option) click on that and enable USB dubbing in it. Now it's done.
+>> If you want to pick random IP address then you can find open ports here [RANDOM IP ADDRESS](https://shodan.io) and search `Android debug emulator`and pick random IP address
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screenshot_2021-03-22-17-57-06-49](https://user-images.githubusercontent.com/75029023/111975048-1a916680-8b3b-11eb-9dc7-cb17acdfffd0.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
+```
+$ pkg up -y 
+```
+```
+$ pkg install git -y 
+```
+```
+$ pkg install python -y 
+```
+```
+$ pkg install openssl-tool 
+```
+```
+$ pkg install wget -y 
+```
+```
+$ pip install colorama 
+```
+```
+$ git clone https://github.com/MasterDevX/Termux-ADB 
+```
+```
+$ cd Termux-ADB 
+```
+```
+$ chmod 777 InstallTools.sh 
+```
+```
+$ bash InstallTools.sh 
+```
+```
+$ cd $HOME 
+```
+```
+$ git clone https://github.com/aerosol-can/PhoneSploit 
+```
+```
+$ cd PhoneSploit 
+```
+```
+$ python phonesploit.py
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of Phonesploit for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zack-sys/PHONESPLOIT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h3><b><i>📡 How to reach me :</i></b></h3>
+<p align="left">
+  <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
+  
